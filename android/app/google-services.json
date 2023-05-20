@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "314617645972",
+    "project_id": "ridam-chat-b392d",
+    "storage_bucket": "ridam-chat-b392d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314617645972:android:65ece261e887ca85ccdd81",
+        "android_client_info": {
+          "package_name": "com.example.ridamchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314617645972-fpbr5ee20je3ai9eammjrn3ohm2qtp26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ridamchat",
+            "certificate_hash": "1c365b1bf0591951bb1c5bb6dcda048a20f1059f"
+          }
+        },
+        {
+          "client_id": "314617645972-mu4s928uujhk94suk7qceql0j7n40f9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMnHlftSzEWdmnhSDWtb97GHPeq7q3V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314617645972-bd76rp05ipbibpe126svu352qqpofjt4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314617645972-0kfg1ih33vr63cj0o9hacvg3a6kasg62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ridamchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
